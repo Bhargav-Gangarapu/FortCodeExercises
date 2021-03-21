@@ -1,0 +1,10 @@
+In Place of 
+
+If 
+else if 
+else if 
+
+Conditions we can use Terinary Operator or Switch Case
+
+If we use Terinary Operator we can write the code in single 
+for understanding purpose i have written the code in Step by step
